@@ -3,3 +3,9 @@ numpy
 sklearn
 matplotlib
 flask
+Quandl
+<<<<<<< HEAD
+
+New req
+=======
+>>>>>>> 5ce30dd... Update requirements.txt
