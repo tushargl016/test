@@ -1,8 +1,0 @@
-pandas
-numpy
-sklearn
-matplotlib
-flask
-Quandl
-
-New req
